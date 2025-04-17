@@ -1,2 +1,1 @@
 # Spotify-songs-Analysis
-This project analyzes Spotify song data using SQL for querying, Python (Pandas, Matplotlib/Seaborn) for data cleaning and visualization, and Power BI for interactive dashboards. Key insights include trends in song popularity, audio features, and artist/genre comparisons. The goal was to explore data transformation, visualization techniques, and derive actionable insights from streaming data.
